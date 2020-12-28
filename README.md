@@ -10,4 +10,4 @@ Neste jogo de adivinhação, o computador irá gerar um número aleatório entre
 
 Com base na tentativa do usuário, o computador fornecerá dicas se o número for alto ou baixo. Quando a escolha do usuário corresponder ao número, o computador imprimirá a resposta junto com o número de tentativas.
 
-[Acesse o notebook.](https://github.com/lisaterumi/jogo-adivinhacao-python/edit/main/README.md)
+[Acesse o notebook.](https://github.com/lisaterumi/jogo-adivinhacao-python/blob/main/adivinha-numero.ipynb)
